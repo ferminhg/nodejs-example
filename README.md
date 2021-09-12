@@ -3,7 +3,7 @@ Nodejs example
 
 ## Requirements
 
-- Use [nvm](https://github.com/nvm-sh/nvm) to install node version
-- Install Nodejs version: 16
+- Recommended for node versions: use [nvm](https://github.com/nvm-sh/nvm) to install node version
+- Install Nodejs 16 using nvm
   - `nvm install 16`
   - `nvm use 16`
