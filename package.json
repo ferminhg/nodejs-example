@@ -1,0 +1,14 @@
+{
+  "devDependencies": {
+    "jest": "27.1.1",
+    "prettier": "2.4.0"
+  },
+  "scripts": {
+    "tests": "jest --config=jest.config.js"
+  },
+  "files": [
+    "src"
+  ],
+  "type": "module",
+  "main": "server.js"
+}
